@@ -1,5 +1,7 @@
 ![Header](https://github.com/Prudence003/QA-Tester-CV/blob/main/Assets/Logo.png)
 
+# Hello, my name is Erdeni!
+
 ## I'm a beginner QA Tester
 
 ### Languages and Tools
