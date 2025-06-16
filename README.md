@@ -1,4 +1,4 @@
-![Header](https://github.com/Prudence003/QA-Tester-CV/blob/main/Assets/Logo.png)
+![Header](https://github.com/Prudence003/Prudence003/blob/main/Assets/Logo.png)
 
 # Hello, my name is Erdeni!
 
