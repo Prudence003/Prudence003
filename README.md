@@ -1,16 +1,15 @@
-## Hi there 👋
+![Header](https://github.com/Prudence003/QA-Tester-CV/blob/main/Assets/Logo.png)
 
-<!--
-**Prudence003/Prudence003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a beginner QA Tester
 
-Here are some ideas to get you started:
+### Languages and Tools
+![Static Badge](https://img.shields.io/badge/Postman-black?style=flat&logo=Postman&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Chrome%20DevTools-black?style=flat&logo=google%20chrome&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Jira-black?style=flat&logo=Jira&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger&logoSize=auto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=LinkedIn&logoSize=auto)](https://www.linkedin.com/in/erdeni-batodorzhiev-6877b92ba/)
