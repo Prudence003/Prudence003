@@ -11,6 +11,8 @@
 ![Static Badge](https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Jira-black?style=flat&logo=Jira&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoSize=auto)
+
 
 
 ### Follow Me
